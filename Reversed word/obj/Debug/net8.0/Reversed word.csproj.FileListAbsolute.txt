@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Reversed word\bin\Debug\net8.0\Reversed word.exe
+D:\Programmering\Programmering\Reversed word\bin\Debug\net8.0\Reversed word.deps.json
+D:\Programmering\Programmering\Reversed word\bin\Debug\net8.0\Reversed word.runtimeconfig.json
+D:\Programmering\Programmering\Reversed word\bin\Debug\net8.0\Reversed word.dll
+D:\Programmering\Programmering\Reversed word\bin\Debug\net8.0\Reversed word.pdb
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.AssemblyInfo.cs
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.dll
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\refint\Reversed word.dll
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.pdb
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\Reversed word.genruntimeconfig.cache
+D:\Programmering\Programmering\Reversed word\obj\Debug\net8.0\ref\Reversed word.dll
